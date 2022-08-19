@@ -1,0 +1,9 @@
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/Experimental.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/pebb.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/Continuous.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/Nightly.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/PACKAGE.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/steve/Documents/GitHub/pebble-firmware/build/CMakeFiles/ZERO_CHECK.dir

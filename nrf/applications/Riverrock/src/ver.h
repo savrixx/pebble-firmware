@@ -10,7 +10,11 @@
 
 #define  IOTEX_APP_NAME  "Riverrock"
 
+<<<<<<< HEAD
 #define  RELEASE_VERSION    "1.0.10"
+=======
+#define  RELEASE_VERSION    "1.0.9"
+>>>>>>> 541d5f91 (fix bme680 i2c write 2 registers bug)
 
 /*  application version */
 #define IOTEX_APP_VERSION IOTEX_APP_NAME" "RELEASE_VERSION
